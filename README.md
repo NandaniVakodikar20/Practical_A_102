@@ -6,8 +6,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|-------------------|--------------|
-| Your Name | Your Enrollment No | Set A |
-| Partner Name | Partner Enrollment No | Set B |
+| Nandani Vakodiakr | 202504104610102 | Set A |
+| Sujal Tandel | 202504104610101 | Set B |
 
 ---
 
