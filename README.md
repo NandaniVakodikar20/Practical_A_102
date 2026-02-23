@@ -15,11 +15,12 @@
 
 ### University: UTU
 
-![UTU Logo](images/utulogo.png)
+<img src="images/utulogo.png" width="200">
 
 ### Department: SRIMCA
 
-![SRIMCA Logo](images/srimca.png)
+<img src="images/srimca.png" width="200">
+
 
 ---
 
